@@ -1,0 +1,16 @@
+.i64/
+*.i64
+backups/
+*.obj
+*.pdb
+*.log
+*.tlog
+*.user
+*.suo
+*.sys
+*.cat
+x64/
+Debug/
+Release/
+.vs/
+*.sdf

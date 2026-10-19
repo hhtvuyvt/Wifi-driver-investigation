@@ -1,0 +1,11 @@
+{
+  "servers": {
+    "rea": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "rea-agents"
+      ]
+    }
+  }
+}
